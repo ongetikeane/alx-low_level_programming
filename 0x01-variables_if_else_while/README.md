@@ -1,1 +1,1 @@
-Positive anything is better than negative nothing
+a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line

@@ -1,6 +1,9 @@
 #include <stdio.h>
-
-/*lower case alphabet*/
+/**
+ * main - Entry point
+ *
+ * Return: Away 0 (success/correct)
+ */
 int main(void)
 
 {
@@ -10,7 +13,7 @@ for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 putchar(alphabet);
 }
-putchar('\n');
+putchar('\n')
 }
 
 putchar('\n')
