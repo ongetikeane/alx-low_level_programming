@@ -4,16 +4,21 @@
   * Return: Always 0 (success/correct)
   */
 int main(void)
-{
-char ch;
-for  (ch = 'a'; ch <= 'z'; ch++)
-{
-	putchar(ch);
-}
+	char c;
 
-for (ch = 'A'; ch <= 'Z'; ch++)
-	putchar(ch);
-}
-putchar('\n');
-return (0);
-}
+	char d;
+
+	c = 'a'
+	d = 'A'
+	while
+	      (c <= 'z') {
+		      putchar(c);
+		      c++
+	      }
+        while
+	      (d <= 'z') {
+		      putchar(c);
+		      d++;
+	      }
+	return (0);
+
